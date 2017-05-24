@@ -1,0 +1,4 @@
+Un dossier par personnage qui contiendra :
+	-une fiche de description en open document (.odt)
+	-un fichier avec les lien de reference et annexe en text (.txt)
+	-un dossier avec les travaux du character designer ainsi que ses référeference. CE DOSSIER LUI EST RESERVE !!!
